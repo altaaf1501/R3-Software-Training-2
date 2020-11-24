@@ -12,7 +12,7 @@ The maze generation algorithm it uses is the Aldous-Broder algorithm.
 
 <br>
 
-![Hardware And Wiring!](images/maze-generator-pic.PNG)
+![Hardware And Wiring!](images/maze-generator-pic.png)
 
 <br>
 <br>
